@@ -1,0 +1,50 @@
+[
+    {
+        "Category" : "Ролы",
+        "Name" : "Калифорния",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/kaliforniya-s-krabom.jpg",
+        "Description" : "Рис, Лосось, Сыр, Огурец 8шт Вес: 250 гр.",
+        "Money" : "220 рублей"
+    },
+    {
+        "Category" : "Суши",
+        "Name" : "Спайси Кани",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/fciz-ZUK3VY_mLIM57e_U9EyP71.jpg",
+        "Description" : "Рис, Лосось, Сыр, Огурец 8шт Вес: 250 гр.",
+        "Money" : "150 рублей"
+    },
+    {
+        "Category" : "Сеты",
+        "Name" : "Гурман",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/zRFGkFT8264.jpg",
+        "Description": "тейшоку, калифорния с крабом, мидори, тори темпура, калифорния темпура, Вес: 1050 гр. 40шт",
+        "Money" : "650 рублей"
+    },
+    {
+        "Category" : "Пицца",
+        "Name" : "Каприз",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/5DrQKnSK5DM.jpg",
+        "Description" : "томаты, грибы, курица, бекон, Корнишоны, лук фиолетовый, сыр(моцарелла), 33см",
+        "Money" : "800 рублей"
+    },
+    {
+        "Category" : "Лапша",
+        "Name" : "Лапша Куринная",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/xM_KnK-a868.jpg",
+        "Description" : "Лапша на выбор (удон, яичная, гречневая, рисовая), Лосось, Креветки коктельные, Морковь, Кабачок, Перец болгарский, Кунжут",
+        "Money" : "350 рублей"
+    },
+    {
+        "Category" : "Дополнительно",
+        "Name" : "Картофель фри",
+        "Slug" : "",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/-7OG0w64KFg_6TAPShk.jpg",
+        "Description" : "Картофель фри 200 г",
+        "Money" : "150 рублей"
+    }
+]

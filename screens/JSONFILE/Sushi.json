@@ -1,0 +1,242 @@
+﻿[
+    {
+        "Name" : "СПАЙСИ КАНИ",
+        "Image" : "https://sun9-76.userapi.com/impf/c830509/v830509828/17e81c/fciz-ZUK3VY.jpg?size=0x179&crop=0.008,0.008,0.984,0.984&quality=95&sign=47b5fef493db9db63c61b8bd2d6a0b40",
+        "Description" : "Рис, Спайси, Снежный краб, Вес: 35 гр.",
+        "Money" : "45.00 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ МАГУРО",
+        "Image" : "https://sun9-69.userapi.com/impf/c849424/v849424828/5a270/-NaGyMorD9U.jpg?size=179x0&crop=0.012,0.133,0.98,0.733&quality=95&sign=4c5d9ec260e9810087254a45332055d5",
+        "Description" : "Рис, Спайси, Тунец, Вес: 35 гр.",
+        "Money" : "65.00 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ МИДИИ",
+        "Image" : "https://sun9-74.userapi.com/impf/c846419/v846419828/cdeb4/7n66w1Pzqsw.jpg?size=0x179&crop=0.102,0,0.741,1&quality=95&sign=6571535819d264a11ebf72e0be945a2e",
+        "Description" : "Рис, Спайси, Мидии, Авокадо, Вес: 35 гр.",
+        "Money" : "45.00 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ ОКУНЬ",
+        "Image" : "https://sun9-20.userapi.com/impf/c834202/v834202828/179195/QuKvS6NAAnc.jpg?size=0x179&crop=0.145,0,0.667,1&quality=95&sign=40a9c524801ada4d5342ad07a63db660",
+        "Description" : "Рис, Спайси, Окунь, Вес: 35 гр.",
+        "Money" : "50.00 рублей"
+    },
+    {
+        "Name" : "ИКУРА",
+        "Image" : "https://sun9-10.userapi.com/impf/c845524/v845524828/d120e/UBJZ3AurlTE.jpg?size=520x0&quality=95&sign=835a9495bd6e513c38f6a8d92f25ffda",
+        "Description" : "Рис, икра лосося, вес: 35 гр.",
+        "Money" : "90 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ УНАГИ",
+        "Image" : "https://sun9-22.userapi.com/impf/c849524/v849524828/5871f/XWBDJPSS8q4.jpg?size=520x0&quality=95&sign=b9b54b1c1a83858b1f4ecaae55fb7c2b",
+        "Description" : "Нори, Рис, Спайси, Угорь, Вес: 35 гр.",
+        "Money" : "80 рублей"
+    },
+    {
+        "Name" : "ИКУРА УАЙТ",
+        "Image" : "https://sun1-16.userapi.com/impf/aMOE2zl8VinyUn1-UcPoVsnV9AYlAST0y--VwA/ZEQDmpUAPwA.jpg?size=464x0&quality=95&sign=85d26d945e81cd1dd9240cbe87c7f255",
+        "Description" : "Нори, Рис, Сыр, Икра, Вес: 35 гр.",
+        "Money" : "50 рублей"
+    },
+    {
+        "Name" : "ЧУКА",
+        "Image" : "https://sun9-57.userapi.com/impf/c849420/v849420828/58bfb/PcYJ3NgKOAk.jpg?size=520x0&quality=95&sign=fd9ee34886630d2576451d2d46404328",
+        "Description" : "Нори, Рис, Чука, Ореховый соус, Вес: 35 гр.",
+        "Money" : "45 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ ЭБИ",
+        "Image" : "https://sun9-7.userapi.com/impf/c830309/v830309828/17a31d/sNCOoy9SRLc.jpg?size=520x0&quality=95&sign=7f83dc816156d12842623fb063b86dec",
+        "Description" : "Рис, Спайси соус, Креветка, Вес: 35 гр.",
+        "Money" : "65 рублей"
+    },
+    {
+        "Name" : "СПАЙСИ СЯКЕ",
+        "Image" : "https://sun9-53.userapi.com/impf/c830509/v830509828/17e79f/u8Cp8B2p7Zw.jpg?size=520x0&quality=95&sign=f57bc1fee84a4e419c934dc4db8ecccb",
+        "Description" : "Нори, Рис, Спайси соус, Лосось, Вес: 35 гр.",
+        "Money" : "60 рублей"
+    },
+    {
+        "Name" : "СЛИВОЧНЫЙ ЛОСОСЬ",
+        "Image" : "https://sun9-9.userapi.com/impf/c834304/v834304828/1061f0/tboazT7zrto.jpg?size=520x0&quality=95&sign=8ddfb4154cdcfb7707719dd723bb2eb0",
+        "Description" : "Нори, Рис, Сыр, Лосось, Вес: 35 гр.",
+        "Money" : "60 рублей"
+    },
+    {
+        "Name" : "ТОБИКО",
+        "Image" : "https://sun9-43.userapi.com/impf/c849524/v849524278/57b30/GcVTXZyIWB0.jpg?size=520x0&quality=95&sign=f0e57d61cfe5285afe9b4c2b49ce5306",
+        "Description" : "Нори, Рис, Тобико, Вес: 35 гр.",
+        "Money" : "50 рублей"
+    },
+    {
+        "Name" : "БЛЭКПИНК",
+        "Image" : "https://sun1-27.userapi.com/impg/GvPAkVJKDOBr8CWtymMh4IAzw9HE2kHDr_meSg/CRZTzJ1mOEQ.jpg?size=520x0&quality=95&sign=ea547cb0e6d0d881bebb1f451f26e145",
+        "Description" : "Нори, Рис, Сыр Креметте, Огурец свежий, Угорь, Икра Масаго черная, Икра Масаго красная, Соус Унаги, 8шт, 250гр.",
+        "Money" : "230 рублей"
+    },
+    {
+        "Name" : "КИОТО2",
+        "Image" : "https://sun1-22.userapi.com/impg/D0hATt5SVApI7fD-VGunwX_vE082DV7B5bJqXA/ZgNwMdRg4Fg.jpg?size=520x0&quality=95&sign=f5fb9aad77e421e3a0b7247cd47c9a82",
+        "Description" : "Нори, Рис, Сыр Креметте, Окунь морской обжаренный в кляре, Имбирь, Майонез, Кунжут черный, 8шт, 200гр.",
+        "Money" : "130 рублей"
+    },
+    {
+        "Name" : "МАКАРЭНА",
+        "Image" : "https://sun1-25.userapi.com/impg/RqMhyvumP3zGxb6BmzXH5jQKlFpO0EmUh0lJqg/GactGHG4M1s.jpg?size=520x0&quality=95&sign=7d7a55bd536a54e80ecb7b5d6df49d28",
+        "Description" : "Нори, Рис, Сыр Креметте, Бекон, Корнишоны, Икра Масаго черная, Соус чесночный, Сыр Гауда, 8шт, 200гр.",
+        "Money" : "190 рублей"
+    },
+    {
+        "Name" : "ДУЭТ ЧИЗ",
+        "Image" : "https://sun1-22.userapi.com/impg/T1oAGCQUK83fmj8owJVSHhKC-zMbB7dR_ZRjgw/ifCEWjaxiUg.jpg?size=520x0&quality=95&sign=d9c75f2602384ee377ae96ba5f6c1ae4",
+        "Description" : "Нори, Рис, Сыр плавленный квадратный, Сыр творожный, Масаго, Лосось, 8шт.",
+        "Money" : "190 рублей"
+    },
+    {
+        "Name" : "САКУРА",
+        "Image" : "https://sun9-75.userapi.com/impf/c850020/v850020347/161aeb/0a7mFTf6AxE.jpg?size=520x0&quality=95&sign=4370ef70e145270e426dd212dbb82307",
+        "Description" : "Рис, Нори, Укроп, Сыр, Масаго красная, Снежный краб, Омлет, 8шт.",
+        "Money" : "160 рублей"
+    },
+    {
+        "Name" : "СЛИВОЧНЫЙ КАЛЬМАР",
+        "Image" : "https://sun9-25.userapi.com/impf/c850528/v850528771/97be4/NgheaihiT6Y.jpg?size=520x0&quality=95&sign=1f1ab5000010d5b07c2569b82f4f90d4",
+        "Description" : "Нори, Рис, Кальмар обжаренный в кляре, Сыр, Спайси соус, Масаго красная, 8шт.",
+        "Money" : "190 рублей"
+    },
+    {
+        "Name" : "КИОТО",
+        "Image" : "https://sun9-37.userapi.com/impf/c849428/v849428839/9c1b3/-qg8wqw9M9A.jpg?size=520x0&quality=95&sign=6ac6c4b2c0f28025a34e007513d4e67e",
+        "Description" : "Нори, Рис, Окунь жаренный в кляре, Сыр, Лук зеленый, Майонез, Кунжут, 8шт.",
+        "Money" : "130 рублей"
+    },
+    {
+        "Name" : "ДУЭТ",
+        "Image" : "https://sun9-1.userapi.com/impf/c831309/v831309839/1b6894/EDjkAsDeUm0.jpg?size=520x0&quality=95&sign=f0e197f211f9f8aff9fdf46e07cf5023",
+        "Description" : "Нори, Рис, Окунь, Лосось, Сыр, Огурец, 8шт.",
+        "Money" : "180 рублей"
+    },
+    {
+        "Name" : "ФИЛАДЕЛЬФИЯ ТАЙ",
+        "Image" : "https://sun9-41.userapi.com/impf/c851520/v851520226/2c667/44DZRmxAu64.jpg?size=520x0&quality=95&sign=4613b8e33937194550c67721e8637271",
+        "Description" : "Нори, Рис, Сыр, Окунь, 8шт.",
+        "Money" : "150 рублей"
+    },
+    {
+        "Name" : "КАЛИФОРНИЯ С КРАБОМ",
+        "Image" : "https://sun9-75.userapi.com/impf/c849420/v849420318/89ccd/h3uiaN0Fkd0.jpg?size=520x0&quality=95&sign=dade83764d5992ab28522beeeec2980c",
+        "Description" : "Нори, Рис, Масаго красная, Снежный краб, Огурец, Майонез, 8шт.",
+        "Money" : "160 рублей"
+    },
+    {
+        "Name" : "ХИРАКИ",
+        "Image" : "https://sun9-49.userapi.com/impf/c850732/v850732992/829f/KZTPDdVYkhg.jpg?size=520x0&quality=95&sign=16dfd96bf0e69de054398bb1d3a3f233",
+        "Description" : "Нори, Рис, Сыр, Копченый лосось, Огурец, Спайси соус, 8шт.",
+        "Money" : "170 рублей"
+    },
+    {
+        "Name" : "НЕЖНЫЙ",
+        "Image" : "https://sun9-55.userapi.com/impf/c849332/v849332043/7b9fb/600f1pXMaf8.jpg?size=520x0&quality=95&sign=61d9f119bff6db5b53af9c7b34537d37",
+        "Description" : "Апельсин, Сыр, Лосось, 8шт.",
+        "Money" : "210 рублей"
+    },
+    {
+        "Name" : "БЕКОН МАКИ",
+        "Image" : "https://sun9-66.userapi.com/impf/c851320/v851320093/33f7/fU1xJ2678ts.jpg?size=520x0&quality=95&sign=ded834b628ce105ffe4a9d387f2a46ed",
+        "Description" : "Огурец, Лук порей, Такуан, Бекон, Сыр, 8шт.",
+        "Money" : "160 рублей"
+    },
+    {
+        "Name" : "ФИЛАДЕЛЬФИЯ С УГРЕМ",
+        "Image" : "https://sun9-17.userapi.com/impf/c849228/v849228073/81d65/WNLbuNwjv_M.jpg?size=520x0&quality=95&sign=0ae51bf97844b2469b49f45dcd93493d",
+        "Description" : "Рис, Лосось, Угорь, Сыр, 8шт., Вес: 250 гр.",
+        "Money" : "280 рублей"
+    },
+    {
+        "Name" : "ФИЛАДЕЛЬФИЯ",
+        "Image" : "https://sun9-1.userapi.com/impf/c830208/v830208483/17932d/Hxe9X6ZJ3pI.jpg?size=520x0&quality=95&sign=720046d0ace2066719b3d6e23e907106",
+        "Description" : "Рис, Лосось, Сыр, Огурец, 8шт., Вес: 250 гр.",
+        "Money" : "220 рублей"
+    },
+    {
+        "Name" : "ФУДЗИЯМИ",
+        "Image" : "https://sun9-16.userapi.com/impf/c850136/v850136123/1370e/wcoPJnZFa6A.jpg?size=520x0&quality=95&sign=a7c75399e31a0edf3ca7540e89d95a01",
+        "Description" : "Рис, Креветка, Огурец, Сыр, Тобика, Икра лосося, 8шт., Вес: 260 гр.",
+        "Money" : "260 рублей"
+    },
+    {
+        "Name" : "КАЛИФОРНИЯ С ЛОСОСЕМ",
+        "Image" : "https://sun9-66.userapi.com/impf/c849520/v849520632/64bbe/yXjVwXDltSM.jpg?size=520x0&quality=95&sign=7dbdf071d004b77e2d67ae2167821d8e",
+        "Description" : "Рис, Лосось, Огурец, Авокадо, Тобико(крас), Майонез, 8шт, Вес: 250 гр.",
+        "Money" : "200 рублей"
+    },
+    {
+        "Name" : "КАЛИФОРНИЯ С КРЕВЕТКОЙ",
+        "Image" : "https://sun1-97.userapi.com/impf/Ifmi0dthsFSkIBGiSgo_MXSGoNqkk8oEUCMIBQ/j-zFnok3sSw.jpg?size=453x0&quality=95&sign=2b33297daca1c31e06d57179eea680dd",
+        "Description" : "Рис, Креветка, Огурец, Тобико, Майонез, 8шт., Вес: 250 гр.",
+        "Money" : "210 рублей"
+    },
+    {
+        "Name" : "СЕНТАКИ",
+        "Image" : "https://sun9-44.userapi.com/impf/c849128/v849128661/651aa/8faFWX4HGI8.jpg?size=520x0&quality=95&sign=d4bbb42678c25d995f3cf9c861bfff35",
+        "Description" : "Рис, Угорь, Креветка, Огурец, Сыр, Кунжут, 8шт, Вес: 180 гр.",
+        "Money" : "350 рублей"
+    },
+    {
+        "Name" : "ФИЛАДЕЛЬФИЯ С ТУНЦОМ",
+        "Image" : "https://sun9-60.userapi.com/impf/c847219/v847219483/c8785/eI3UWUEub9U.jpg?size=520x0&quality=95&sign=3b8fc5cf5f487267c427fa4f4c37eb30",
+        "Description" : "Рис, Тунец, Сыр, Огурец, 8шт., Вес: 250 гр.",
+        "Money" : "220 рублей"
+    },
+    {
+        "Name" : "ФИЛАДЕЛЬФИЯ ЛАЙТ",
+        "Image" : "https://sun9-27.userapi.com/impf/c850036/v850036632/62a8a/h6rUBawSE90.jpg?size=520x0&quality=95&sign=20ae5a8d47216dd811bf2de4d7089ff6",
+        "Description" : "Рис, Лосось, Сыр, 8шт., Вес: 230 гр.",
+        "Money" : "200 рублей"
+    },
+    {
+        "Name" : "ШИРО УНАГИ",
+        "Image" : "https://sun9-34.userapi.com/impf/c845021/v845021123/dd338/ZAxTDbvwvjw.jpg?size=520x0&quality=95&sign=d0f14c0d1a5ec3751ccf927b63a7bd5f",
+        "Description" : "Рис, Угорь, Омлет, Огурец, Сыр, Сыр хохланд, 8шт., Вес: 260 гр.",
+        "Money" : "220 рублей"
+    },
+    {
+        "Name" : "НИАГАРА",
+        "Image" : "https://sun1-95.userapi.com/impf/f1f2vXVnmkYX0cPWGXTx3MnL4dRcAE9dATRf8A/3NH84yI7glY.jpg?size=520x0&quality=95&sign=eb459d7eaeb7351030b1f2e44265b083",
+        "Description" : "Рис, Лосось в кляре, Омлет, Огурец, Сыр, Сыр хохланд, 8шт., Вес: 260 гр.",
+        "Money" : "250 рублей"
+    },
+    {
+        "Name" : "КАНАДА",
+        "Image" : "https://sun9-21.userapi.com/impf/c848636/v848636661/5f359/QELU94jchuA.jpg?size=520x0&quality=95&sign=885c1e4f289d4e4f451a6df1eab4a618",
+        "Description" : "Рис, Угорь, Сыр, Огурец, Кунжут, Соус Унаги, 8шт., Вес: 245 гр.",
+        "Money" : "350 рублей"
+    },
+    {
+        "Name" : "ЯКИТОРИЯ",
+        "Image" : "https://sun9-62.userapi.com/impf/c845420/v845420123/db7d7/Yu_ltwTzgIg.jpg?size=520x0&quality=95&sign=93c449564d0f601211a95360f79c05c6",
+        "Description" : "Рис, Креветка, Огурец, Спайси, Японский омлет, Сыр, Тобико, 8шт., Вес: 240 гр.",
+        "Money" : "170 рублей"
+    },
+    {
+        "Name" : "НОРВЕГИЯ",
+        "Image" : "https://sun1-23.userapi.com/impf/5ILhvf2FEPHrFDRt2HWTTphnb_WWiHfQ3pU-6w/nuJ81SCEyho.jpg?size=520x0&quality=95&sign=d581a52d109f6778b21b7371121b21bf",
+        "Description" : "Рис, Угорь, Тобико, Кунжут, Огурец, Снежный краб, 8шт., Вес: 245 гр.",
+        "Money" : "210 рублей"
+    },
+    {
+        "Name" : "МИДОРИ",
+        "Image" : "https://sun9-12.userapi.com/impf/c844616/v844616661/dd41a/-Q2cO-SiTd0.jpg?size=520x0&quality=95&sign=fedb7c2f8fe1ba2be3feed4c2f28dd4b",
+        "Description" : "Рис, Сыр, Лосось, Огурец, Укроп, 8шт., Вес: 245 гр.",
+        "Money" : "160"
+    },
+    {
+        "Name" : "ДРАКОН",
+        "Image" : "https://sun9-17.userapi.com/impf/c845123/v845123208/c5aab/I6QHk5mlwVs.jpg?size=464x0&quality=95&sign=1a9e311c0fa6e299de203fc54d6776b9",
+        "Description" : "Рис, Угорь, Креветка, Огурец, Соус Унаги, Кунжут, Майонез, 8шт., Вес: 255 гр.",
+        "Money" : "350 рублей"
+    }
+]

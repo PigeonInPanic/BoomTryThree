@@ -1,0 +1,32 @@
+[
+    {
+        "Name" : "ДИАБЛО",
+        "Image" : "https://sun1-99.userapi.com/impg/4zr3UEJlwit3b9upMT4oaNnXgfTRcZ4YgP1AlQ/lAzp38slhCs.jpg?size=520x0&quality=95&sign=80b20a6e2b8e40fe1adb103490f4359c",
+        "Description" : "Бекон, пепперони, перец болгарский, сыр(моцарелла), соус барбекю, 33см",
+        "Money" : "410.00 ₽"
+    },
+    {
+        "Name" : "КАПРИЗ",
+        "Image" : "https://sun1-83.userapi.com/impg/8-x-yaTrhzXfvjKA01HWA9yJ034Hy32KA8ng2w/KI4L3EyFvT8.jpg?size=520x0&quality=95&sign=1072d1940ce8ea847b5d96cd45cfbfda",
+        "Description" : "Томаты, грибы, курица, бекон, Корнишоны, лук фиолетовый, сыр(моцарелла), 33см",
+        "Money" : "450.00 ₽"
+    },
+    {
+        "Name" : "МОРСКАЯ",
+        "Image" : "https://sun1-15.userapi.com/impg/RLBSJHNY6hdBh61PQK0YcEfsqZ92qvaBS-3eVg/Ri9B0pwUFa0.jpg?size=520x0&quality=95&sign=4e900debbc838c3ab187114d7b24fd5b",
+        "Description" : "Морской коктейль, маслины, лук фиолетовый, сыр(моцарелла), 33см",
+        "Money" : "460.00 ₽"
+    },
+    {
+        "Name" : "ПЕППЕРОНИ",
+        "Image" : "https://sun1-99.userapi.com/impg/4zr3UEJlwit3b9upMT4oaNnXgfTRcZ4YgP1AlQ/lAzp38slhCs.jpg?size=520x0&quality=95&sign=80b20a6e2b8e40fe1adb103490f4359c",
+        "Description" : "Пепперони, сыр моцарелла, соус, 33см",
+        "Money" : "390.00 ₽"
+    },
+    {
+        "Name" : "СЕМЕЙНАЯ",
+        "Image" : "https://sun1-22.userapi.com/impg/WY5kCSi_o66sRgenNPP2TmNGLDN4znAbw6l_7w/ISWZZTBM4zM.jpg?size=520x0&quality=95&sign=56ef42713145b8ca962ad2217d351470",
+        "Description" : "Курица, грибы, помидор, лук, огурцы(маринованные), оливки, сыр моцарелла, 33 см",
+        "Money" : "440.00 ₽"
+    }
+]

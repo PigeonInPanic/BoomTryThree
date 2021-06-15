@@ -1,0 +1,74 @@
+[
+    {
+        "Name" : "КАРТОФЕЛЬ ФРИ MAXI",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/products/2021/05/04/-7OG0w64KFg_6TAPShk.jpg",
+        "Description" : "Картофель фри, 200гр",
+        "Money" : "120.00 ₽"
+    },
+    {
+        "Name" : "КАРТОФЕЛЬ ПО ДЕРЕВЕНСКИ",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/products/2021/05/04/fkNHJW9ZIhI.jpg",
+        "Description" : "Картофельные дольки жареные во фритюре, 280гр",
+        "Money" : "150.00 ₽"
+    },
+    {
+        "Name" : "СОУС БАРБЕКЮ",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/products/2021/05/04/PAh-liXcnm0.jpg",
+        "Description" : "Не забудь взять с картошкой фри....",
+        "Money" : "35.00 ₽"
+    },
+    {
+        "Name" : "СЫРНЫЙ СОУС",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/products/2021/05/04/yM2yUxqf_jU.jpg",
+        "Description" : "Не забудь взять с картошкой фри.....",
+        "Money" : "35.00 ₽"
+    },
+    {
+        "Name" : "НАГГЕТСЫ",
+        "Image" : "https://sun9-33.userapi.com/impf/c846521/v846521816/eaff9/8RJ9LVauQqI.jpg?size=520x0&quality=95&sign=9a27abe86cd8663a12f9a359fb7a79b4",
+        "Description" : "Закуска из филе куриной грудки в хрустящей панировке, обжаренной в масле.",
+        "Money" : "120 ₽"
+    },
+    {
+        "Name" : "КАРТОФЕЛЬ ФРИ",
+        "Image" : "https://avatars.mds.yandex.net/get-zen_doc/173924/pub_5b782b4afc2f9900a8c33106_5b782b79b541cb00a9ccaa34/scale_1200",
+        "Description" : "100гр",
+        "Money" : "70 ₽"
+    },
+    {
+        "Name" : "СОЕВЫЙ СОУС",
+        "Image" : "https://sun9-20.userapi.com/impf/c850336/v850336457/fdad/1XK2p1d5XeA.jpg?size=520x0&quality=95&sign=10f917a94560251e5090c397516ace04",
+        "Description" : "Дополнительная порция соевого соуса",
+        "Money" : "20 ₽"
+    },
+    {
+        "Name" : "ВАСАБИ",
+        "Image" : "https://sun9-14.userapi.com/impf/c850020/v850020457/5d9cb/MuUi72so6XQ.jpg?size=520x0&quality=95&sign=bc3aeda23cce6c7200be62ccdccd9ea4",
+        "Description" : "Дополнительная порция васаби",
+        "Money" : "20 ₽"
+    },
+    {
+        "Name" : "ИМБИРЬ",
+        "Image" : "https://sun9-17.userapi.com/impf/c847221/v847221457/ccd3b/4Yv3L2_Tdj4.jpg?size=520x0&quality=95&sign=31d57757279c8f41f13309cb342a652a",
+        "Description" : "Дополнительная порция имбиря",
+        "Money" : "20 ₽"
+    },
+    {
+        "Name" : "КУНЖУТНЫЙ СОУС",
+        "Image" : "https://sun9-66.userapi.com/impf/c830408/v830408457/182437/VoT78BghLw4.jpg?size=520x0&quality=95&sign=96b7b11853f02ba70cf81951ec8e5c32",
+        "Description" : "Идеально походит для жаренных ролл",
+        "Money" : "45 ₽"
+    },
+    {
+        "Name" : "ЧЕСНОЧНЫЙ СОУС",
+        "Image" : "https://sun9-64.userapi.com/impf/c845321/v845321457/cf5bd/1DypwuVJaCM.jpg?size=520x0&quality=95&sign=5570d4518a5f403281db29bdf0b8c1f6",
+        "Description" : "Добавь немного пикантности...",
+        "Money" : "35 ₽"
+    },
+    {
+        "Name" : "СПАЙСИ СОУС",
+        "Image" : "https://sun9-19.userapi.com/impf/c830400/v830400457/18291c/9OqrNpXj5mc.jpg?size=520x0&quality=95&sign=8268f6b97b8e660e91cf7017f3883d57",
+        "Description" : "Для тех, кто любит поострее!",
+        "Money" : "35 ₽"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Name" : "ЛАПША КУРИНАЯ",
+        "Image" : "http://chaikainpaanic.pythonanywhere.com/media/products/2021/05/04/xM_KnK-a868_iU3moQS.jpg",
+        "Description" : "Лапша на выбор (удон, яичная, гречневая, рисовая), Грудка куриная, Морковь, Кабачок, Перец болгарский, Чеснок, Лук порей, Масло кунжутное, Масло растительное, Соус терияки, Соус соевый, Кунжут",
+        "Money" : "250.00 ₽"
+    },
+    {
+        "Name" : "КАПРИЗ",
+        "Image" : "https://sun1-83.userapi.com/impg/8-x-yaTrhzXfvjKA01HWA9yJ034Hy32KA8ng2w/KI4L3EyFvT8.jpg?size=520x0&quality=95&sign=1072d1940ce8ea847b5d96cd45cfbfda",
+        "Description" : "Томаты, грибы, курица, бекон, Корнишоны, лук фиолетовый, сыр(моцарелла), 33см",
+        "Money" : "450.00 ₽"
+    },
+    {
+        "Name": "ЕВРАЗИЯ",
+        "Image": "https://sun1-91.userapi.com/impf/7wXVDhS43F5mlKRSFjgaovZHqU_I92QBkuWt9Q/T0Mgao7px8w.jpg?size=520x0&quality=95&sign=13054472376fa1fc991bf2a7a3ce4119",
+        "Description": "Нори, Рис, Копченый угорь, Маринованный огурец, Зеленый лук, Сыр, Вес: 160 гр., 8шт",
+        "Money": "170 ₽"
+    },
+    {
+        "Name" : "ВКУС МОРЯ",
+        "Image" : "https://sun1-20.userapi.com/impg/hQugHMdL9lHcPHA5UG_ByI2OZt8kDmhO3ACNxA/bAO1WNzITbk.jpg?size=520x0&quality=95&sign=6d7c06afd38a10cbf26664b18df895f0",
+        "Description" : "Дуэт чиз, Летучий Голландец, Телец, Рич, Экзотик, 2 соевых соуса, 1 имбирь, 1 васаби",
+        "Money" : "770.00 ₽"
+    },
+    {
+        "Name" : "СПАЙСИ МИДИИ",
+        "Image" : "https://sun9-74.userapi.com/impf/c846419/v846419828/cdeb4/7n66w1Pzqsw.jpg?size=0x179&crop=0.102,0,0.741,1&quality=95&sign=6571535819d264a11ebf72e0be945a2e",
+        "Description" : "Рис, Спайси, Мидии, Авокадо, Вес: 35 гр.",
+        "Money" : "45.00 рублей"
+    }
+]
